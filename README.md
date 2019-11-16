@@ -1,2 +1,2 @@
 # anacom
-An introductory Python Toolbox for Ananlog ommunication.
+An introductory Python Toolbox for Ananlog communication.
